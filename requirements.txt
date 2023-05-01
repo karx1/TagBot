@@ -1,4 +1,4 @@
 discord.py==1.2.2
 jishaku==1.14.0.129
 aiosqlite==0.10.0
-Flask==1.0.3
+Flask==2.3.2
